@@ -16,15 +16,15 @@ El objetivo de este trabajo fue el de la creación de una página HTML básica u
 - Formularios
 - Etcétera
 
-## Pasos para una correcta ejecución del proyecto
+## Pasos para una correcta ejecución del proyecto:
 1. Descargar el repositorio en un archivo ".zip".
 2. Extraer el repositorio en nuestro ordenador.
 3. Abrir "Visual Studio Code" o cualquier editor de código de preferencia.
-4. Abrir la carpeta y ejectuar el archivo "index.html"
+4. Abrir la carpeta y ejectuar el archivo "index.html".
 
 
 ------------
 
 
 ##### Nota
-- En la carpeta media se encuentras aquellas imagenes, videos, audios que fueron utilizados en nuestra página.
+- En la carpeta media se encuentras aquellas imagenes, videos, audios que fueron utilizados en el proyecto.
